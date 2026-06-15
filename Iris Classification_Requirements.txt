@@ -1,0 +1,16 @@
+Requirements
+
+Install the following Python libraries before running the project:
+txt
+scikit-learn
+pandas
+seaborn
+matplotlib
+Install Command
+bash
+pip install scikit-learn pandas seaborn matplotlib
+
+Python Version
+Recommended Python Version:
+txt
+Python 3.8 or above
